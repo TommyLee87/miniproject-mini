@@ -12,3 +12,4 @@ public class MemberVO {
     private String email;
     private Date join;
 }
+
